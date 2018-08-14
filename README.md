@@ -1,4 +1,4 @@
-# Into to Loops
+# Intro to Loops
 
 ## Objectives
 
