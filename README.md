@@ -7,7 +7,8 @@
   - List the 4 parts of a FOR loop
   - Loop through an array of values
   - Loop through an array of objects
-- Use conditional logic in a loop
+
+- STRETCH: Use conditional logic in a loop
 
 ## Notes
 

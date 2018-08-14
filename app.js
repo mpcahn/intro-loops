@@ -16,6 +16,7 @@ var objArray = [
 
 
 // Write a FOR loop that:
+  // iterates through numArray
   // console.logs current value multiplied by 3
 
 
