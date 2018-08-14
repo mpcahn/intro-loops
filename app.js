@@ -6,7 +6,7 @@ var objArray = [
   { product: 'basketball', price: 10 },
   { product: 'volleyball', price: 15 },
   { product: 'football', price: 20 },
-];
+]
 
 
 // Write a FOR loop that:

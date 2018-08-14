@@ -18,3 +18,4 @@
 - [MDN Docs - While Loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
 - [MDN Docs - Do...While Loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/do...while)
 - [Code on Repl.it](https://repl.it/@mhw6721/Intro-to-Loops)
+- [Moar Loop Practice](https://repl.it/@JustJames/Building-Loops)
