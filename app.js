@@ -18,6 +18,7 @@ for (var i = 0; i < numArray.length; i++) {
 }
 
 // Write a FOR loop that:
+  // iterates through numArray
   // console.logs current value multiplied by 3
 
 for (var i = 0; i < numArray.length; i++) {
