@@ -7,9 +7,25 @@
   - List the 4 parts of a FOR loop
   - Loop through an array of values
   - Loop through an array of objects
-- Use conditional logic in a loop
+
+- STRETCH: Use conditional logic in a loop
 
 ## Notes
+
+- Explain some benefits of loops
+  * Do the same problem over and over again until we hit the exit condition
+  * Good for repetitive tasks!!!
+  * Recyclable, Reusable
+  * Ex. Security => trying to crack a passcode (brute force)
+  * DRY = Don't Repeat Yourself
+  * Makes our code more dynamic and flexible
+
+- Construct a FOR loop
+  * List the 4 parts of a FOR loop
+    - _Initializer_ => the starting point of the loop
+    - _Condition_ => gets checked BEFORE each run of the loop
+    - _Final Expression_ => last part of the loop; code that runs AFTER each run of the loop completes
+    - _Statement_ => what's executed inside the loop (the code that runs)
 
 ## Resources
 
